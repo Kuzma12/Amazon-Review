@@ -1,0 +1,7 @@
+dash==2.16.1
+pandas==2.2.2
+plotly==5.21.0
+
+textblob
+nltk
+gunicorn
